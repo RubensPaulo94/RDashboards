@@ -2,9 +2,11 @@
 
 ## Sobre o Projeto
 
-Plataforma web desenvolvida para centralizar e gerenciar o acesso a dashboards Power BI, com autenticação de usuários, controle de permissões e monitoramento de utilização.
+O RDashboards é uma versão demonstrativa de uma solução de gestão de dashboards Power BI criada para apresentação em portfólio.
 
-O objetivo é melhorar a governança, segurança e organização de ambientes com múltiplos dashboards.
+Este repositório contém a documentação do projeto, arquitetura da solução e demonstrações visuais.
+
+**O código-fonte não está disponível publicamente, pois o projeto foi baseado em uma solução desenvolvida em contexto corporativo.**
 
 ---
 
@@ -133,14 +135,6 @@ O sistema foi projetado com foco em controle de acesso e proteção de dados:
 - Uso de RLS para segurança  
 - Integração com Power BI Embedded  
 - Estruturação de aplicação fullstack  
-
----
-
-## Observação
-
-Este projeto é uma versão demonstrativa desenvolvida para portfólio.
-
-A implementação pública foi criada com base em conceitos e aprendizados obtidos durante o desenvolvimento de uma solução corporativa, sem exposição de informações, dados ou códigos proprietários.
 
 ---
 
