@@ -65,45 +65,56 @@ O sistema foi projetado com foco em controle de acesso e proteção de dados:
 
 ## Screenshots
 
-### Tela Login
+### Tela de Login
+- Tela inicial com a autenticação obrigatória dos usuários
 ![login](https://github.com/RubensPaulo94/RDashboards/blob/848e96a0e7a38610470d79931d74c6f8b2e5c772/imagens/1-Tela%20Login.png)
 
 
-### Detalhes do Dashboard
+### Tela Principal
+- Apresenta os Dashboards que estão habilitados para visualização 
 ![detalhes1](https://github.com/RubensPaulo94/RDashboards/blob/848e96a0e7a38610470d79931d74c6f8b2e5c772/imagens/2-Detalhes%20Dashboard.png)
 ![detalhes2](https://github.com/RubensPaulo94/RDashboards/blob/848e96a0e7a38610470d79931d74c6f8b2e5c772/imagens/2.1-Detalhes%20Dashboard.png)
 
 ### Favoritos
+- Todos os Dashboards que você sinalizou como favoritos aparecerão aqui
 ![favoritos](https://github.com/RubensPaulo94/RDashboards/blob/848e96a0e7a38610470d79931d74c6f8b2e5c772/imagens/3-%20Favoritos.png)
 
-### Usuários
+### Gerenciamento de Usuários
+- Gerenciamento de acesso e permissões definidas para cada usuário
 ![Usuarios](https://github.com/RubensPaulo94/RDashboards/blob/848e96a0e7a38610470d79931d74c6f8b2e5c772/imagens/4-Usuarios.png)
 
 
 ### Gerenciamento dos Dashboards
+- Gerenciamento dos Dashboards como links e descrições de cada um deles
 ![gerenciamentodashs](https://github.com/RubensPaulo94/RDashboards/blob/848e96a0e7a38610470d79931d74c6f8b2e5c772/imagens/5-%20Gerenciamento%20de%20Dashboards.png)
 
 
 ### Cargos
+- Lista de cargos que estão disponíveis
 ![listacargos](https://github.com/RubensPaulo94/RDashboards/blob/848e96a0e7a38610470d79931d74c6f8b2e5c772/imagens/6-%20Cargos.png)
 
 
 ### Solicitações de Acesso
+- Aqui o Administrador pode conceder ou negar a visualização a um dashboard especifico
 ![solicitacoesacesso](https://github.com/RubensPaulo94/RDashboards/blob/848e96a0e7a38610470d79931d74c6f8b2e5c772/imagens/7-Solicita%C3%A7%C3%B5es%20de%20Acesso.png)
 
 
 ### Logs de Acesso
+- Registra todos os acessos e permite o acompanhamento de quem está acessando a plataforma
 ![logsacesso](https://github.com/RubensPaulo94/RDashboards/blob/848e96a0e7a38610470d79931d74c6f8b2e5c772/imagens/8-Logs%20de%20Acesso.png)
 
 
 ### Sobre
+- Apresentação do que é a plataforma e seu objetivo
 ![sobre](https://github.com/RubensPaulo94/RDashboards/blob/848e96a0e7a38610470d79931d74c6f8b2e5c772/imagens/9-%20Sobre.png)
 
 ### Meu Perfil
+- Nesta seção o usuário pode alterar seu nome, senha e escolher entre o tema claro ou escuro
 ![meuperfil](https://github.com/RubensPaulo94/RDashboards/blob/848e96a0e7a38610470d79931d74c6f8b2e5c772/imagens/10-%20Meu%20Perfil.png)
 
 
 ### Visão do Usuário
+- Como o próprio nome diz é a visão de quem está cadastrado no sistema com o perfil "Usuário".
 ![visaousuario](https://github.com/RubensPaulo94/RDashboards/blob/848e96a0e7a38610470d79931d74c6f8b2e5c772/imagens/11-%20Vis%C3%A3o%20Usu%C3%A1rio.png)
 ![visaousuario2](https://github.com/RubensPaulo94/RDashboards/blob/848e96a0e7a38610470d79931d74c6f8b2e5c772/imagens/12-%20Vis%C3%A3o%20Usu%C3%A1rio%20(Solicitar%20Acesso).png)
 
